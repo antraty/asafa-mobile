@@ -1,0 +1,41 @@
+<verse class="verse verse" name="v1">
+    <lines>
+    <subtitle class="subtitle"> 
+    Application Fihirana Asafa mitovy dika amin'ny « Asafa 2 boky » novokarin'ny ekipa informatika FFBBM.
+    <br>Tsy azo amidy.</subtitle>
+    
+    <!-- <hr class="separator"/> -->
+    <div class="group-info">
+        FIVONDRONAN’NY FIANGONANA BATISTA BIBLIKA ETO MADAGASIKARA
+        <p><a href="http://facebook.com/batistabiblika">Rohy pejy Facebook FFBBM</a></p>
+        <p><a href="http://batista-biblika.mg/">Tranokala batista-biblika.mg</a></p>
+        <p><a href="https://github.com/batistabiblika/asafa-android/">Rohy GitHub Asafa Android</a></p>
+    </div>
+    <div class="group-info">
+    <strong>Fanatsarana na fanitsina natao :</strong>
+    <p>1.0.3 : Nampina ny hira laharana faha 346 izay hira faneva ny faha 90-taona ny FFBBM</p>
+    <p>1.0.2 : Fikarohana hira</p>
+    <p>1.0.1 : Fandaharana ny lisitry ny hira</p>
+    <p>1.0.0 : Version voalohany</p>
+    </div>
+
+    <div class="group-info">
+        <strong>Fanolorana Asafa 2 boky :</strong>
+        <p>Ry Havana, </p>
+        <p>Hoy ny tenin’Andriamanitra hoe <i>«…miravoravoa amin’i Jehovah ianao, dia homeny anao izay irin’ny fonao » Salamo 37:4</i>
+        </p>
+        <p>
+        Marobe tamintsika mpino FBBM no naniry ny hamoahana ny fihirana Asafa 2 amin’ny endrika boky fihirana tsotra, mba hahamora ny fampiasana azy. Tanteraka izany faniriana izany ankehitriny noho ny fomban’Andriamanitra sy ny fanampiany. Izy anie no omem-boninahitra sy deraina mandrakizay. 
+        </p>
+        <p>
+        Isaorana be dia be koa ireo havantsika ao amin’ny Sampana Fiderana-FFBBM izay niasa mafy tokoa ka nahazoana izao vokatra tsara izao.
+        </p>
+        <p>
+        Amin-kafaliana tokoa no anolorana ny « Asafa 2 boky » amintsika Fiangonana Batista Biblika eran’i Madagasikara, koa mazotoa isika mampiasa izany ho amin’ny fiderana Ilay Tompontsika, izay Tompon’ny fiderana rehetra. 
+        </p>
+    </div>
+    <!-- <hr class="separator"/> -->
+    
+
+    </lines>
+</verse>
