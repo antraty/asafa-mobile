@@ -1,24 +1,25 @@
 <verse class="verse verse" name="v1">
     <lines>
     <subtitle class="subtitle"> 
-    Application Fihirana Asafa mitovy dika amin'ny « Asafa 2 boky » novokarin'ny ekipa informatika FFBBM.
+    Application Fihirana Asafa mitovy dika amin'ny « Asafa 2 boky »  <!--novokarin'ny ekipa informatika FFBBM-->.
     <br>Tsy azo amidy.</subtitle>
     
     <!-- <hr class="separator"/> -->
     <div class="group-info">
-        FIVONDRONAN’NY FIANGONANA BATISTA BIBLIKA ETO MADAGASIKARA
-        <p><a href="http://facebook.com/batistabiblika">Rohy pejy Facebook FFBBM</a></p>
-        <p><a href="http://batista-biblika.mg/">Tranokala batista-biblika.mg</a></p>
-        <p><a href="https://github.com/batistabiblika/asafa-android/">Rohy GitHub Asafa Android</a></p>
+        FIVONDRONAN’NY FIANGONANA BATISTA BIBLIKA ETO MADAGASIKARA - Ankadifotsy
+       <!-- <p><a href="http://facebook.com/batistabiblika">Rohy pejy Facebook FFBBM</a></p>
+        <p><a href="http://batista-biblika.mg/">Tranokala batista-biblika.mg</a></p>  
+        <p><a href="https://github.com/batistabiblika/asafa-android/">Rohy GitHub Asafa Android</a></p>  -->
     </div>
     <div class="group-info">
     <strong>Fanatsarana na fanitsina natao :</strong>
+    <p>2.0.0 : Nampiana Solfa par Antratia</p>
     <p>1.0.3 : Nampina ny hira laharana faha 346 izay hira faneva ny faha 90-taona ny FFBBM</p>
     <p>1.0.2 : Fikarohana hira</p>
     <p>1.0.1 : Fandaharana ny lisitry ny hira</p>
-    <p>1.0.0 : Version voalohany</p>
+    <p>1.0.0 : Version voalohany par Miradontsoa</p>
     </div>
-
+ <!--
     <div class="group-info">
         <strong>Fanolorana Asafa 2 boky :</strong>
         <p>Ry Havana, </p>
@@ -34,7 +35,7 @@
         Amin-kafaliana tokoa no anolorana ny « Asafa 2 boky » amintsika Fiangonana Batista Biblika eran’i Madagasikara, koa mazotoa isika mampiasa izany ho amin’ny fiderana Ilay Tompontsika, izay Tompon’ny fiderana rehetra. 
         </p>
     </div>
-    <!-- <hr class="separator"/> -->
+    <hr class="separator"/> -->
     
 
     </lines>
